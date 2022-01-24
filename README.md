@@ -2,7 +2,7 @@
 
 A sample project to explain the working of Firebase
 
-#Plugins used:
+# Plugins used:
 
   flutter_bloc: ^7.3.1
   equatable: ^2.0.0
@@ -12,7 +12,8 @@ A sample project to explain the working of Firebase
   cloud_firestore:
 
 
-#Steps:
+# Steps: 
+
     1. Configure firebase for the project
     2. Add the dependencies in yaml
     3. Implement the cubit and repository for authentication (Both Sign up and Login)
@@ -20,10 +21,10 @@ A sample project to explain the working of Firebase
     5. Implement the cubit and repository for reading and creating tasks
     6. Design the UI for listing and adding tasks
 
-#GitHub Repository
+# GitHub Repository
     https://github.com/BibyChacko/firebase_example.git
 
-#For more:
+# For more:
     https://morioh.com/p/7c6a2538c5ea
 
 
